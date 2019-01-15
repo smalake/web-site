@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+#login_button {
+    float: left;
+}
+#user_register {
+    position: relative;
+    left: 35px;
+}

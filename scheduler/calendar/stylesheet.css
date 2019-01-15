@@ -1,0 +1,57 @@
+.sunday{
+    color: red;
+}
+
+.saturday{
+    color: blue;
+}
+div.bikou{
+    font-size: 12pt;
+}
+table#table_id td{
+    cursor: pointer;
+}
+table#schedule_list th{
+    cursor: pointer;
+    background: #87CEFA;
+    text-indent:100%;
+    white-space:nowrap;
+    overflow:hidden;
+}
+#before,#top_year,#next{
+    float: left;
+}
+#table_id{
+    clear: both;
+    text-align: right;
+    width: 30%;
+    height: 200%;
+    position: relative;
+    top: 30px;
+    left: 20px;
+}
+div#top{
+    position: absolute;
+    top: 50px;
+    left: 70px;
+}
+a#toTop{
+    position: relative;
+    top: 80px;
+    left: 10px;
+}
+#edit_button {
+    position: relative;
+    top: 20px;
+    left: 50px;
+}
+#delete_button {
+    position: relative;
+    top: 20px;
+    left: 90px;
+}
+#logout {
+    position: relative;
+    top: 50px;
+    left: 20px;
+}
